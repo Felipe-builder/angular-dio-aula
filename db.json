@@ -109,6 +109,16 @@
       "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
       "genero": "Aventura",
       "id": 11
+    },
+    {
+      "titulo": "  SPONSORED O Senhor dos Anéis: A Sociedade do Anel",
+      "urlFoto": "https://www.imdb.com/title/tt0120737/mediaviewer/rm3592958976/?ref_=tt_ov_i",
+      "dtLancamento": "2001-12-10T02:00:00.000Z",
+      "descricao": "Um manso hobbit do Condado e oito companheiros partem em uma jornada para destruir o poderoso Um Anel e salvar a Terra-média das Trevas.",
+      "nota": 8.8,
+      "urlIMDb": "https://www.imdb.com/title/tt0120737/?ref_=nv_sr_srsg_0",
+      "genero": "Fantasia",
+      "id": 12
     }
   ]
 }
