@@ -141,16 +141,6 @@
       "id": 14
     },
     {
-      "titulo": "eita",
-      "urlFoto": "",
-      "dtLancamento": "2021-10-12T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Terror",
-      "id": 15
-    },
-    {
       "titulo": "good",
       "urlFoto": "ksoakosokkokoko",
       "dtLancamento": "2021-10-21T03:00:00.000Z",
@@ -211,16 +201,6 @@
       "id": 21
     },
     {
-      "titulo": "olala",
-      "urlFoto": "",
-      "dtLancamento": "2021-10-12T03:00:00.000Z",
-      "descricao": "",
-      "nota": 5,
-      "urlIMDb": "",
-      "genero": "Aventura",
-      "id": 22
-    },
-    {
       "titulo": "O Poderoso Chefão II",
       "urlFoto": "https://www.imdb.com/title/tt0071562/mediaviewer/rm4159262464/?ref_=tt_ov_i",
       "dtLancamento": "1974-12-12T03:00:00.000Z",
@@ -229,16 +209,6 @@
       "urlIMDb": "https://www.imdb.com/title/tt0071562/?ref_=hm_tpks_tt_i_6_pd_tp1_cp",
       "genero": "Drama",
       "id": 23
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-10-05T03:00:00.000Z",
-      "descricao": "ola\nteste\nbom de \nfazer hein",
-      "nota": 0,
-      "urlIMDb": "",
-      "genero": "Comédia",
-      "id": 24
     }
   ]
 }
