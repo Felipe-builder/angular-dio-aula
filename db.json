@@ -41,14 +41,14 @@
       "genero": "Ação"
     },
     {
-      "id": 5,
-      "titulo": "Coringa",
+      "titulo": "Coringa (editado)",
       "urlFoto": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
       "dtLancamento": "2019-10-03T03:00:00.000Z",
       "descricao": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
       "nota": 8.7,
       "urlIMDb": "https://www.imdb.com/title/tt7286456/",
-      "genero": "Drama"
+      "genero": "Drama",
+      "id": 5
     },
     {
       "id": 6,
@@ -99,16 +99,6 @@
       "urlIMDb": "https://www.imdb.com/title/tt1618434/",
       "genero": "Comédia",
       "id": 10
-    },
-    {
-      "titulo": "Star Wars: A Ascensão Skywalker",
-      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX182_CR0,0,182,268_AL_.jpg",
-      "dtLancamento": "2019-12-19T03:00:00.000Z",
-      "descricao": "In Theaters Now\nAfter Palpatine mysteriously returns, the Resistance faces the First Order once more in the final chapter of the Skywalker saga.",
-      "nota": 6.9,
-      "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
-      "genero": "Aventura",
-      "id": 11
     },
     {
       "titulo": "  SPONSORED O Senhor dos Anéis: A Sociedade do Anel",
@@ -209,6 +199,26 @@
       "urlIMDb": "https://www.imdb.com/title/tt0071562/?ref_=hm_tpks_tt_i_6_pd_tp1_cp",
       "genero": "Drama",
       "id": 23
+    },
+    {
+      "titulo": "Star Wars: A Ascensão Skywalker (edit)",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-12-19T03:00:00.000Z",
+      "descricao": "In Theaters Now\nAfter Palpatine mysteriously returns, the Resistance faces the First Order once more in the final chapter of the Skywalker saga.",
+      "nota": 6.9,
+      "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
+      "genero": "Aventura",
+      "id": 24
+    },
+    {
+      "titulo": "Coringa (edit)",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-10-03T03:00:00.000Z",
+      "descricao": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+      "nota": 8.7,
+      "urlIMDb": "https://www.imdb.com/title/tt7286456/",
+      "genero": "Drama",
+      "id": 25
     }
   ]
 }
