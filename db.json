@@ -219,6 +219,26 @@
       "urlIMDb": "",
       "genero": "Aventura",
       "id": 22
+    },
+    {
+      "titulo": "O Poderoso Chefão II",
+      "urlFoto": "https://www.imdb.com/title/tt0071562/mediaviewer/rm4159262464/?ref_=tt_ov_i",
+      "dtLancamento": "1974-12-12T03:00:00.000Z",
+      "descricao": "Em 1950, Michael Corleone, agora à frente da família, tenta expandir o negócio do crime a Las Vegas, Los Angeles e Cuba. Paralelamente, é revelada a história de Vito Corleone, e de como saiu da Sicília e chegou a Nova Iorque.",
+      "nota": 9,
+      "urlIMDb": "https://www.imdb.com/title/tt0071562/?ref_=hm_tpks_tt_i_6_pd_tp1_cp",
+      "genero": "Drama",
+      "id": 23
+    },
+    {
+      "titulo": "teste",
+      "urlFoto": "",
+      "dtLancamento": "2021-10-05T03:00:00.000Z",
+      "descricao": "ola\nteste\nbom de \nfazer hein",
+      "nota": 0,
+      "urlIMDb": "",
+      "genero": "Comédia",
+      "id": 24
     }
   ]
 }
